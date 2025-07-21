@@ -1,6 +1,6 @@
 # Bike-Share Usage Analytics: Members vs Casuals
 
-Anonymized bike-share data from Chicago's Divvy system are used to simulate Cyclistic data and used to compare its casual riders and annual members. It examines trip duration, timing, and usage patterns to uncover insights that support targeted Cyclistic marketing.
+Anonymized bike-share data from Chicago's Divvy system is used to simulate Cyclistic data, allowing for a comparison of casual riders and annual members. The analysis explores trip duration, timing, and usage patterns to uncover insights that inform targeted marketing strategies for Cyclistic.
 
 Take a look at the jupyter notebook [**cyclistic_analysis.ipynb**](https://github.com/laballais/cyclistic_analysis/blob/main/cyclistic_analysis.ipynb) to see how the data was cleaned and processed for analysis using *R*.
 
